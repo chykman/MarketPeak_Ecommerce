@@ -130,6 +130,34 @@ This project demonstrates the skills and knowledge I have acquired in setting up
             ![image](https://github.com/user-attachments/assets/fa1aef0c-cd25-482b-9996-e370aeaa690e)
             ![image](https://github.com/user-attachments/assets/c8cc115b-ceb0-43a2-bade-acc72ce9f6ee)
             ![image](https://github.com/user-attachments/assets/95a5d79c-7a86-467f-874a-04abe878201a)
+
+          - Switch local branch from development to main
+             ![image](https://github.com/user-attachments/assets/8c24898a-d6df-4e11-bb5b-1c5a0e7a8572)
+          - Merge to development
+             ![image](https://github.com/user-attachments/assets/06c022b5-80fd-4c13-84aa-985694b2d939)
+           - Push changes
+              ![image](https://github.com/user-attachments/assets/e2559c5b-6ce9-4e35-9ff8-d867c2d57013)
+
+            - Login to your Cloud server and pull the changes from your Website location
+              ![image](https://github.com/user-attachments/assets/96e34fcb-0d68-43b9-bd98-c8a53b4b1d6e)
+              ![image](https://github.com/user-attachments/assets/764821d5-420b-45f4-bb65-7df36ff4fc52)
+
+
+              - Reload Apache server
+                ![image](https://github.com/user-attachments/assets/4462d4f5-9c4e-47bd-9fd5-cb25790bd7e7)
+
+                - Test to see the new changes by getting the public ip adress and opening it with a web browser
+                  
+                   
+                
+
+                
+
+           
+            
+
+
+
             
 
 
