@@ -81,8 +81,74 @@ This project demonstrates the skills and knowledge I have acquired in setting up
    #### 2.2 Install Web Server on your EC2 Instance
     - Update all packages on the server
       ![image](https://github.com/user-attachments/assets/7bd56fc4-c361-442f-9d11-8273d46b6f59)
-      - Install Apache
+      
+      - Install Apache server
         ![image](https://github.com/user-attachments/assets/3d635f96-131e-4488-9f94-5763e3a0c589)
+        ![image](https://github.com/user-attachments/assets/1cae6146-e0fb-4f20-8a68-144a97eebfb5)
+
+      - Start Apache server
+        ![image](https://github.com/user-attachments/assets/53e0c27a-6bc2-40ea-8bfa-ca5c3cbf0935)
+
+      - Enable Apache server
+        ![image](https://github.com/user-attachments/assets/b2cab939-121c-4852-806c-3a252353a553)
+
+      #### 2.3 Configure Apache server (HTTPD)
+
+       - Prepare server by clearing the default HTTPD web directory
+         ![image](https://github.com/user-attachments/assets/a8beeafb-9ad7-4e69-acff-fd5f2ce17108)
+
+      - Replace with the Market Peak E-Commerce files
+        ![image](https://github.com/user-attachments/assets/03d6af68-ec74-45a2-b83f-9e5a002539c0)
+
+        - Reload Apache server
+           ![image](https://github.com/user-attachments/assets/dab4a39e-4cdc-42d1-acfa-4eca7ada21fa)
+
+     #### 2.4 Access the website through web browser
+
+    - Copy the public ip from your Ec2 instance and open on a browser
+      ![image](https://github.com/user-attachments/assets/fb472cb9-e46e-4add-8d90-88ddecd2fecd)
+
+      #### 3 Continuous Integration and Deployment
+
+      - Create  a Development Branch and switch to it
+        ![image](https://github.com/user-attachments/assets/05dcaeb7-f940-443f-bd62-22cc9491aa8f)
+
+      - Make minor changes to the code and stage
+         ![image](https://github.com/user-attachments/assets/f4dd5ab1-f105-49a0-9418-268704c5a999)
+
+      - Commit your changes
+         ![image](https://github.com/user-attachments/assets/e1ab0d44-7f60-4da2-a7c3-2745a701fbf2)
+         ![image](https://github.com/user-attachments/assets/a3df3599-0442-4c16-8fc9-005b885c456d)
+
+        - Push your changes
+          ![image](https://github.com/user-attachments/assets/5b33d5e4-95ad-43a9-b6a7-8c385c810c84)
+        - Create a Pull request in Github
+           ![image](https://github.com/user-attachments/assets/c9e5d6b6-9caf-4aee-89e1-31aca3b0af97)
+           ![image](https://github.com/user-attachments/assets/675fc498-a21f-439e-9924-b1c2d5a04a49)
+
+          - Merge PR
+            ![image](https://github.com/user-attachments/assets/fa1aef0c-cd25-482b-9996-e370aeaa690e)
+            ![image](https://github.com/user-attachments/assets/c8cc115b-ceb0-43a2-bade-acc72ce9f6ee)
+            ![image](https://github.com/user-attachments/assets/95a5d79c-7a86-467f-874a-04abe878201a)
+            
+
+
+
+
+          
+
+
+
+
+        
+        
+
+      
+        
+
+
+
+        
 
 
    
