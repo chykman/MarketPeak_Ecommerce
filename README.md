@@ -147,6 +147,13 @@ This project demonstrates the skills and knowledge I have acquired in setting up
                 ![image](https://github.com/user-attachments/assets/4462d4f5-9c4e-47bd-9fd5-cb25790bd7e7)
 
                 - Test to see the new changes by getting the public ip adress and opening it with a web browser
+               
+                  Website before the changes
+                 ![image](https://github.com/user-attachments/assets/1e843139-cdca-4475-9ff0-0ff87ce40844)
+
+                  Website after the changes
+                  ![image](https://github.com/user-attachments/assets/6733313e-8638-4d5e-9586-daa1efcd6885)
+
                   
                    
                 
